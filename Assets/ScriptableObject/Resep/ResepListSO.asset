@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e34da0ddb7b3304492d3eb6ca906ef5, type: 3}
+  m_Name: ResepListSO
+  m_EditorClassIdentifier: 
+  resepSOList:
+  - {fileID: 11400000, guid: ef119da05df9e0c48b7bcb2ba87c38e3, type: 2}
+  - {fileID: 11400000, guid: 847bf6760d4ce0241a623cf9251adbfd, type: 2}
+  - {fileID: 11400000, guid: d519ac9faca5db24c81c95164a252c15, type: 2}
+  - {fileID: 11400000, guid: 5eaf2342c7a343d409241e6981e8baf6, type: 2}
+  - {fileID: 11400000, guid: 1fca965fae075914cac168494ec74dbb, type: 2}
